@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CommonUtil.java&apos; to &apos;lottery/src/com.jdc.lot&apos;&#x0D;&#x0A;- Original project: &apos;crud-app&apos;&#x0D;&#x0A;- Destination element: &apos;lottery/src/com.jdc.lot&apos;&#x0D;&#x0A;- Original element: &apos;com.jdc.app.util.CommonUtil.java&apos;" description="Copy compilation unit" destination="=lottery/src&lt;com.jdc.lot" element1="/src&lt;com.jdc.app.util{CommonUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642992972838" units="1" version="1.0"/>
+</session>

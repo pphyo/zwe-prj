@@ -1,0 +1,29 @@
+package com.jdc.lot;
+
+import java.util.Random;
+
+public class ThreeDLottery {
+
+	public void start() {
+		// 3D open
+		int originalDigit = 0;
+		
+		Random ran = new Random();
+		
+		originalDigit = ran.nextInt(1000);
+		
+		System.out.println(originalDigit);
+		
+		// get user 3D
+		
+		// get user play amount
+		
+		// around 3D or tut (user amount 10 times)
+		
+		// user 3D matches 3D (500 times)
+		
+		// want to continues
+		
+	}
+
+}

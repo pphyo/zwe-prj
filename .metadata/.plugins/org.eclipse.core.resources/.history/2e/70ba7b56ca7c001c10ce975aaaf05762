@@ -1,0 +1,13 @@
+package com.jdc.lot;
+
+public class LotteryApp {
+
+	public static void main(String[] args) {
+		
+		int digit = new ThreeDLottery().getSecondDigit(249);
+		
+		System.out.println(digit);
+		
+	}
+
+}

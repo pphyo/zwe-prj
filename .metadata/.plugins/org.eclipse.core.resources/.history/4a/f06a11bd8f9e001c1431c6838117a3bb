@@ -1,0 +1,18 @@
+package com.jdc.app;
+
+public class GenericDemo {
+
+	public static void main(String[] args) {
+		
+		Object[] objArr = new Object[5];
+		objArr[0] = "Mg Mg";
+		objArr[1] = new Bucket();
+		objArr[2] = 20;
+		
+		for(Object obj : objArr) {
+			String s = (String)obj;
+		}
+		
+	}
+	
+}

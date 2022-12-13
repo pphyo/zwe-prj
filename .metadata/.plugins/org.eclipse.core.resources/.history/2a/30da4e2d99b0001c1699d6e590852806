@@ -1,0 +1,19 @@
+package com.jdc.app;
+
+import java.util.function.Consumer;
+
+public class FuncInterTest {
+
+	public static void main(String[] args) {
+		
+		Consumer<String> con = (String data) -> {
+			String[] arr = data.split(" ");
+			for(String str : arr)
+				System.out.println(str);
+		};
+
+		con.accept("This is a consumer interface sample");
+		
+	}
+
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git@github.com:minlwin/the-restaurant.git"/>
+		<item value="git@github.com:minlwin/onestop-one.git"/>
+		<item value="git@github.com:pphyo/my-projects.git"/>
+		<item value="git@github.com:pphyo/font-converter.git"/>
+		<item value="pphyo20696@github.com:pphyo/font-converter.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="pphyo &lt;sharloghome808@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="pphyo &lt;sharloghome808@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="358"/>
+		<item key="DIALOG_Y_ORIGIN" value="65"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="461"/>
+		<item key="DIALOG_FONT_NAME" value="1|JetBrains Mono|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|JetBrains Mono"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

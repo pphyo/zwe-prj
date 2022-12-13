@@ -1,0 +1,24 @@
+package com.jdc.lot;
+
+public class ThreeDLottery {
+	
+	public static void main(String[] args) {
+		System.out.println("Hello");
+	}
+
+	public void start() {
+		// 3D open
+		
+		// get user 3D
+		
+		// get user play amount
+		
+		// around 3D or tut (user amount 10 times)
+		
+		// user 3D matches 3D (500 times)
+		
+		// want to continues
+		
+	}
+
+}

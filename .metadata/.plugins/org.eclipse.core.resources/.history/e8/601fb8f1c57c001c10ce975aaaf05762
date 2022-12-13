@@ -1,0 +1,33 @@
+package com.jdc.lot;
+
+import java.util.Random;
+
+public class ThreeDLottery {
+
+	public void start() {
+		// 3D open
+		int originalDigit = 0;
+		
+		Random ran = new Random();
+		
+		originalDigit = ran.nextInt(1000);
+		
+		CommonUtil.printHeaderFooter("Welcome 3D Lottery App");
+		
+		do {
+		// get user 3D
+		
+		// get user play amount
+		
+		// around 3D or tut (user amount 10 times)
+		
+		// user 3D matches 3D (500 times)
+		
+		} while();
+		// want to continues
+		
+		CommonUtil.printHeaderFooter("Thanks for playing 3D Lottery App");
+		
+	}
+
+}

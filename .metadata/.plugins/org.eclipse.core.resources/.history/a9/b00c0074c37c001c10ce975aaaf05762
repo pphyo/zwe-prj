@@ -1,0 +1,15 @@
+package com.jdc.lot;
+
+public class LotteryApp {
+
+	public static void main(String[] args) {
+		
+		String s = "";
+		
+		System.out.println("is empty: " + s.isEmpty());
+		
+		System.out.println("is blank: " + s.isBlank());
+
+	}
+
+}

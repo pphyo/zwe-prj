@@ -1,0 +1,20 @@
+package com.jdc.app;
+
+import java.util.function.Consumer;
+import java.util.function.Function;
+
+public class FuncInterTest {
+
+	public static void main(String[] args) {
+		
+		Consumer<String> con = System.out::println; // a -> System.out.println(a);
+
+		con.accept("This is a consumer interface sample");
+		
+		Function<Integer, String> func = i -> String.valueOf(i);
+
+		System.out.println(func.apply(20));
+		
+	}
+
+}

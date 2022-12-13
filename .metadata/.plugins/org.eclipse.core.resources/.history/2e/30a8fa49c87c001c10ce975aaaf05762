@@ -1,0 +1,17 @@
+package com.jdc.lot;
+
+public class LotteryApp {
+
+	public static void main(String[] args) {
+		
+//		new ThreeDLottery().start();
+		
+		System.out.println(isTut(280, 279));
+
+	}
+	
+	public static boolean isTut(int userDigit, int oriDigit) {
+		return userDigit + 1 == oriDigit || userDigit - 1 == oriDigit;
+	}
+
+}

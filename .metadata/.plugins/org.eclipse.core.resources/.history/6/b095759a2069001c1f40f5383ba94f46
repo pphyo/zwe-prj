@@ -1,0 +1,9 @@
+package com.jdc.oop.over;
+
+public class Vehicle extends Machine {
+
+	public void move() {
+		
+	}
+	
+}

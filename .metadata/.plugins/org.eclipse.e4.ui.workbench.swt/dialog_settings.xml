@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ShowViewDialog">
+		<item key="ShowViewDialog.STORE_SELECTED_VIEW_ID" value="org.eclipse.egit.ui.StagingView"/>
+		<item key="DIALOG_X_ORIGIN" value="482"/>
+		<item key="DIALOG_Y_ORIGIN" value="76"/>
+		<item key="DIALOG_WIDTH" value="418"/>
+		<item key="DIALOG_HEIGHT" value="445"/>
+		<item key="DIALOG_FONT_NAME" value="1|JetBrains Mono|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|JetBrains Mono"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Git"/>
+		</list>
+	</section>
+</section>

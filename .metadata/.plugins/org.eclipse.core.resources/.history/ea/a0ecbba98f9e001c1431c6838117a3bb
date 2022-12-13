@@ -1,0 +1,16 @@
+package com.jdc.app;
+
+public class Bucket<T> {
+
+	private T data;
+	
+	public T getData() {
+		return data;
+	}
+	
+	public void setData(T data) {
+		T t = data;
+		this.data = data;
+	}
+	
+}

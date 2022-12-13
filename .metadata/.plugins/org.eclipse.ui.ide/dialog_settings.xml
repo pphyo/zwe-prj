@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1639449381138"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="375"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\PPhyo\git\font-converter"/>
+			<item value="C:\Users\PPhyo\Documents\Project\ZWE_PRJ\font-converter.zip"/>
+			<item value="C:\Users\PPhyo\Documents\Project\ZWE_PRJ\font-converter"/>
+			<item value="C:\Users\PPhyo\git\my-projects\modern-ui"/>
+			<item value="C:\Users\PPhyo\git\my-projects\fx-hello-pos"/>
+			<item value="C:\Users\P Phyo\Documents\Project\crud-app-with-security"/>
+			<item value="C:\Users\P Phyo\Documents\Project\ZWE_PRJ\crud-app-with-security"/>
+			<item value="C:\Users\PPhyo\Documents\Project\online-bcmp\crud-app-with-security"/>
+			<item value="C:\Users\PPhyo\Documents\Project\ZWE_PRJ\crud-app-with-security"/>
+			<item value="C:\Users\PPhyo\Documents\Project\ZWE_PRJ\mini-console-app"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="579"/>
+		<item key="DIALOG_HEIGHT" value="473"/>
+		<item key="DIALOG_FONT_NAME" value="1|JetBrains Mono|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|JetBrains Mono"/>
+	</section>
+</section>

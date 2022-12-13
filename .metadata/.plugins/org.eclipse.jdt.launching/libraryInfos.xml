@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\tools\java\jdk-17" version="17"/>
+    <libraryInfo home="F:\jdk-17" version="17"/>
+    <libraryInfo home="C:\tools\eclipseIDE\JavaSE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" version="17.0.2"/>
+    <libraryInfo home="C:\tools\eclipseIDE\JavaSE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038" version="17.0.4.1"/>
+    <libraryInfo home="F:\jdk-11.0.2" version="11.0.2"/>
+    <libraryInfo home="C:\tools\eclipseIDE\JavaSE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038\jre" version="17.0.4.1"/>
+    <libraryInfo home="F:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657" version="17.0.1"/>
+    <libraryInfo home="C:\tools\eclipseIDE\JavaSE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" version="17.0.2"/>
+</libraryInfos>

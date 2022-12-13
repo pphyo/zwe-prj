@@ -1,0 +1,30 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/tools/eclipseIDE/JavaSE/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/tools/java/jdk-17/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/tools/java/jdk-17/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/tools/eclipseIDE/JavaSE/plugins/org.junit_4.13.2.v20211018-1956.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/PPhyo/.m2/repository
+org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+org.eclipse.jdt.core.codeComplete.localPrefixes=
+org.eclipse.jdt.core.codeComplete.localSuffixes=
+org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=11
+org.eclipse.jdt.core.compiler.compliance=11
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.comparingIdentical=ignore
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=disabled
+org.eclipse.jdt.core.compiler.source=11
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
+org.eclipse.jdt.core.userLibrary.jfx-11=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.base.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.controls.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.media.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.swing.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx.web.jar"/>\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/javafx-sdk-11.0.2/lib/javafx-swt.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.jfx-css=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="D\:/Dev Soft/JavaFX 11/org.eclipse.fx.ide.css.jfx8_3.5.0.201907240300.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.mysql-connector=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.30.jar"/>\r\n</userlibrary>\r\n
